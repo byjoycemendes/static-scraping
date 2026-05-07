@@ -1,4 +1,4 @@
-# WebScrapper FrenquLab - Captcha Solver
+# WebScrapper FrenquLab - Static Scraping
 
 Este projeto é um webscraper desenvolvido para superar desafios de login protegidos por **reCAPTCHA v2**, utilizando uma abordagem de **Scraping Estático** (sem emulação de navegador).
 
